@@ -1,10 +1,10 @@
-# 10x-cards
+# 10xdevs
 
-A web application for quickly creating and managing educational flashcards with AI assistance. 10x-cards leverages Large Language Models to generate flashcard suggestions from user-provided text, making the learning process more efficient.
+A web application for quickly creating and managing educational flashcards with AI assistance. 10xdevs leverages Large Language Models to generate flashcard suggestions from user-provided text, making the learning process more efficient.
 
 ## Table of Contents
 
-- [10x-cards](#10x-cards)
+- [10xdevs](#10xdevs)
   - [Table of Contents](#table-of-contents)
   - [Tech Stack](#tech-stack)
     - [Frontend](#frontend)
